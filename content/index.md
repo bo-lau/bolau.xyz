@@ -4,7 +4,7 @@ title: Home
 
 Hi, I'm Bo! Welcome to my digital garden 🌷
 
-I'm currently a Computer Science student at McGill University (but also minoring in Economics and Music Technology). I'm working as a Software Engineer at the moment but in past lives I was in marketing, growth, and product management. 
+I'm currently a Computer Science student at McGill University (but also minoring in Economics). I'm working as a Software Engineer at the moment but in past lives I was in marketing, growth, and product management. 
 
 Here's what I'm [reading](https://curius.app/bo-lau) on the internet. 
 
